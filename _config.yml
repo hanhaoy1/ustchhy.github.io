@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: ustchhy
 subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+description: Just a little bit of work.
+keywords: Computer science, machine learning
+author: Haoyu Han
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://ustchhy.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
