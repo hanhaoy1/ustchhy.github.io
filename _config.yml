@@ -78,6 +78,15 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repository: https://github.com/ustchhy/ustchhy.github.io.git
   branch: master
+- type: leancloud_counter_security_sync
+
+
+leancloud_counter_security:
+  enable_sync: true
+  app_id: GFpx4n9VbiFwLpnf83gHOlR7-gzGzoHsz
+  app_key: gfwvONvsAeLMxbjz6bopwMnu
+  username: hanhaoyu 
+  password: hanhaoyu 
